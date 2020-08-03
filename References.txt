@@ -1,0 +1,4 @@
+Udemy Machine Learning A-Z Course by Kirill Eremenko 
+Stack Overflow
+Kaggle
+www.towardsdatascience.com
